@@ -61,7 +61,7 @@ let track_list = [
   {
     name: "Unstoppable",
     artist: "by Sia",
-    image: "images/unstoppable.jpg",
+    image: "images/Unstoppable.jpg",
     path: "music/Unstoppable - (Raag.Fm).mp3"
   },
   {
